@@ -1,0 +1,33 @@
+body{
+    background-position:center;
+    background-size:cover;
+    }
+    
+    .heading{
+    font-size:50px;
+    width:100%;
+    margin:0px;
+    }
+    
+    #start,#Number_Of_Objects,#Status{
+    font-size:18px;
+    }
+    
+    .copyright{
+    background-color:rgb(108, 34, 178);
+    font-size:18px;
+    width:100%;
+    color:rgb(234, 0, 255);
+    line-height:3;
+    text-align: center;
+    position:fixed;
+    bottom:0;
+    }
+    
+    
+    canvas{
+    border:2px dashed rgb(50, 135, 205);
+    border-radius:10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(43, 255, 0);
+    }
